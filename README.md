@@ -1,1 +1,12 @@
 # AdventureCrafts
+- 🌏Perfect modpack for survival and for those looking for adventure
+- 🏰New dungeons and structures
+- 🔥Nether and End revamped
+- 🌄New biomes and ores
+- 🛫New ways to travel
+- 🛠️New Mechanisms
+- 🪐Space travel
+- ⚔️More tools
+- 🍽️Kitchen system
+- 🪑Furniture for your build
+- 🗺️But you still have to discover more, create a world and have fun!
